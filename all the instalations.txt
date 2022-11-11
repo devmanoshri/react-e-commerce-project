@@ -1,0 +1,13 @@
+
+https://www.youtube.com/watch?v=-edmQKcOW8s&list=PLnHJACx3NwAe5XQDk9xLgym7FF8Q4FYW7&index=5
+
+
+> npx create-react-app <react-e-commerce-project>
+
+> npm install --save bootstrap 
+or 
+npm install react-bootstrap bootstrap
+
+> npm install react-favicon --save
+
+> npm install --save styled-components
